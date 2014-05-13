@@ -1,0 +1,24 @@
+libsecp256k1 (4.0+nmu1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream release v4.
+
+ -- Pablo Castellano <pablo@debian>  Thu, 03 Mar 2016 13:38:51 +0100
+
+libsecp256k1 (0.1+nmu1.1) unstable; urgency=low
+
+  * rules: use debhelper
+
+ -- Pablo Castellano <pablo@anche.no>  Sat, 04 Apr 2015 21:28:27 +0200
+
+libsecp256k1 (0.1-1+nmu1) unstable; urgency=low
+
+  * Some changes in packaging
+
+ -- Pablo Castellano <pablo@anche.no>  Tue, 17 Jun 2014 22:28:28 +0200
+
+libsecp256k1 (0.1+nmu1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Amir Taaki (Debian packages) <genjix@riseup.net>  Sun, 13 May 2014 01:44:00 +0100
